@@ -7,7 +7,7 @@ export function Intro() {
         Pickleball Courts
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-       A Think and Click: Textual Content in Digital Platforms project.
+       A blog about pickleball courts around Cebu and Davao
       </h4>
     </section>
   );

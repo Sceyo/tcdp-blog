@@ -1,11 +1,11 @@
 ---
 title: "HQ Pickleball Cebu"
 excerpt: "Pickleball is rapidly gaining popularity in Cebu, with courts popping up across the island. One standout venue is HQ Pickleball Cebu, known for its competitive yet welcoming environment. Whether you’re a beginner or a seasoned player, open play sessions here offer a great way to improve your skills and connect with the growing pickleball community."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2026-03-05T05:35:07.322Z"
+coverImage: "/assets/blog/dynamic-routing/HQTest.jpg"
+date: "2026-05-05T05:35:07.322Z"
 author:
   name: Francis Aliser
-  picture: "/assets/blog/authors/jj.jpeg"
+  picture: "/assets/blog/authors/Francis.jpg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
@@ -18,12 +18,14 @@ In my experience, the environment at HQ is both competitive and friendly. I’ve
 
 As for the facilities, HQ is very accessible, especially if you have a personal vehicle, as it offers ample parking space. Court rental is around ₱600, and there are about nine courts available. There’s also a small store that sells snacks, water, and accessories such as grip tape and edge tape. You can even buy pickleballs or rent a paddle for about ₱350 per hour. Seating is available both inside and around the courts, allowing players to rest or watch ongoing matches.
 
+To book a court, you need to visit their Facebook page and reserve through a third-party platform like Sports360. It’s highly recommended to book at least a week in advance, as slots fill up quickly.
+
 The courts themselves feel like painted cement, which provides durability without being too harsh on your shoes. However, it can get very hot inside, so it’s best to bring an extra shirt and maybe even a portable fan.
 
 Overall, HQ offers a great combination of community, accessibility, and quality facilities. I highly recommend trying out their open play sessions or booking a court with friends.
 
 * ## NOTES
 
-**-** Book your court at least one week in advance, as slots fill up quickly.
+* **-** Book your court at least one week in advance, as slots fill up quickly.
 * **-** To save money, bring your own water and snacks.
-- **-** If commuting, you can take jeepneys like 13C and stop at Cabantan, or any route that passes by Cabantan, then walk to the venue.
+* **-** If commuting, you can take jeepneys like 13C and stop at Cabantan, or any route that passes by Cabantan, then walk to the venue.
