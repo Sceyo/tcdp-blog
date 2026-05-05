@@ -60,7 +60,12 @@ export default function RootLayout({
       <body
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
-        <ThemeSwitcher />
+        <header className="sticky top-0 z-50 w-full border-b border-neutral-200 bg-white/80 backdrop-blur dark:border-neutral-800 dark:bg-slate-900/80">
+          <div className="mx-auto flex max-w-7xl items-center justify-end px-4 py-3">
+            <ThemeSwitcher />
+          </div>
+        </header>
+
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>

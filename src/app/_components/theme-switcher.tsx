@@ -2,6 +2,7 @@
 
 import styles from "./switch.module.css";
 import { memo, useEffect, useState } from "react";
+import Link from "next/link";
 
 declare global {
   var updateDOM: () => void;
@@ -101,13 +102,22 @@ const Script = memo(() => (
 ));
 
 /**
- * This component applies classes and transitions.
+ * This component applies classes and transitions,
+ * and also includes the "About Us" link.
  */
 export const ThemeSwitcher = () => {
   return (
     <>
       <Script />
-      <Switch />
+      <div className="flex items-center gap-4">
+        <Link
+          href="/about"
+          className="rounded-md px-4 py-2 text-base font-medium text-neutral-700 transition-colors hover:bg-neutral-100 dark:text-neutral-300 dark:hover:bg-neutral-800"
+        >
+          About Us
+        </Link>
+        <Switch />
+      </div>
     </>
   );
 };
