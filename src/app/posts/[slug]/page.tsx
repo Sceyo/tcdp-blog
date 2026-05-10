@@ -30,6 +30,8 @@ export default async function Post(props: Params) {
             coverImage={post.coverImage}
             date={post.date}
             author={post.author}
+            coverImageHeight={params.slug === "CrisronPickleballCourts" ? 230 : undefined}
+            squareCoverImage={params.slug !== "HQ-Pickleball"}
           />
           <PostBody content={content} />
         </article>

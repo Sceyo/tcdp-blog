@@ -54,9 +54,9 @@ const people = [
   },
   {
     name: "James Ng",
-    instagram: "https://instagram.com/your-handle",
-    facebook: "https://facebook.com/your-profile",
-    linkedin: "https://facebook.com/your-profile", // leave null to hide this icon
+    instagram: "https://www.instagram.com/jamesss_ngg/",
+    facebook: "https://www.facebook.com/james.nang.31",
+    linkedin: "https://www.linkedin.com/in/james-winston-ng-57943637a/", // leave null to hide this icon
   },
 ];
 

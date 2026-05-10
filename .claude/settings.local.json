@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv \"C:\\\\Users\\\\ngjam\\\\Desktop\\\\tcdp-blog\\\\_posts\\\\hello-world.md\" \"C:\\\\Users\\\\ngjam\\\\Desktop\\\\tcdp-blog\\\\_posts\\\\CrisronPickleballCourts.md\")",
+      "Bash(mv \"C:\\\\Users\\\\ngjam\\\\Desktop\\\\tcdp-blog\\\\_posts\\\\preview.md\" \"C:\\\\Users\\\\ngjam\\\\Desktop\\\\tcdp-blog\\\\_posts\\\\MagnumSportsComplex.md\")"
+    ]
+  }
+}
