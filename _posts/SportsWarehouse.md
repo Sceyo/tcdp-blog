@@ -1,8 +1,8 @@
 ---
-title: "Warehouse Sports Club"
-excerpt: "Warehouse Sports Club in Mandaue offers a more laid-back and private pickleball experience, perfect for playing with friends or hosting small gatherings. With flexible court options and a multi-sport environment, it’s a great alternative for those looking to enjoy the game in a more casual and intimate setting."
+title: "Warehouse Sports Club: Mandaue's Hidden Gem"
+excerpt: "A converted basketball court, a private VIP floor, and the occasional pickleball balls flying in the middle of a basketball game — Warehouse Sports Club in Mandaue is unlike any other pickleball venue in Cebu, and that's precisely its appeal."
 coverImage: "/assets/blog/warehouse/VIP.jpg"
-date: "2026-05-03T05:35:07.322Z"
+date: "2026-04-01T05:35:07.322Z"
 author:
   name: Francis Aliser
   picture: "/assets/blog/authors/Francis.jpg"
@@ -10,24 +10,89 @@ ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 
-Located in H. Abellana, Mandaue, Cebu, Warehouse Sports Club is a multi-sport facility that caters to a variety of games such as billiards, basketball, volleyball, badminton, and pickleball. Getting to this place can be a bit challenging, especially if you're unfamiliar with the area, so it’s best to use navigation apps like Google Maps or Waze to avoid getting lost.
+Somewhere inside Warehouse Sports Club in Mandaue, a basketball game is probably happening. Maybe a badminton match too. And tucked within that controlled chaos, five pickleball courts are waiting — including a VIP floor you can rent entirely for your group. It's chaotic in the best way, and if you're looking for a more private, laid-back pickleball experience that doesn't take itself too seriously, this place delivers exactly that.
 
-Inside the warehouse, there are around five pickleball courts available for rent. Unlike HQ Pickleball Cebu, the pricing here varies depending on the time of day and the type of court you choose. For standard courts on weekdays, rates are approximately ₱300 per hour from 7:00 AM to 5:00 PM, and ₱400 per hour beyond that. On weekends, rates are around ₱350 per hour from 7:00 AM to 5:00 PM, and ₱450 per hour from 5:00 PM to 11:00 PM. If you opt for the VIP court, there is an additional ₱100 fee on top of these rates.
+---
 
-My experience at Warehouse Sports Club felt more intimate compared to other venues. Most of the time, you’ll be playing exclusively with your own group, and there are moments when you and your friends have the main court entirely to yourselves. The main court is originally a basketball court that has been converted into three pickleball courts. There is also a side court where you can play privately with your group, as well as a VIP court that is exclusive to the host and their guests.
+## At a glance
 
-The main court features standard basketball flooring and offers a spacious playing area. This allows for high lobs without obstruction, but since multiple games can happen at once, balls may occasionally interfere with other players. This is fairly common and generally accepted in the space. There’s also a net dividing the pickleball and basketball areas, but balls can still pass through, so it’s important to stay aware of ongoing games nearby.
+| | |
+|---|---|
+| **Location** | H. Abellana, Mandaue, Cebu |
+| **Courts** | 5 pickleball courts (main, side, and VIP) |
+| **Weekday rate (daytime)** | ₱300/hr (7:00 AM – 5:00 PM) |
+| **Weekday rate (evening)** | ₱400/hr (5:00 PM – 11:00 PM) |
+| **Weekend rate (daytime)** | ₱350/hr (7:00 AM – 5:00 PM) |
+| **Weekend rate (evening)** | ₱450/hr (5:00 PM – 11:00 PM) |
+| **VIP court surcharge** | +₱100 on top of applicable rate |
+| **Booking** | Website or Facebook page |
+| **Best for** | Private groups, casual players, pickleball parties |
 
-The side court has a lower ceiling compared to the main court, as the VIP area is located above it. One advantage is that it is enclosed, making it feel more private for your group. While passersby can still watch, it doesn’t really affect the experience. However, there is still a chance for balls to go outside the enclosed area. The flooring here is similar to the main court.
+---
 
-As for the VIP area, it’s a great option if you’re planning a pickleball party or a private gathering. It offers an entire floor exclusive to you and your guests, complete with its own bathroom. However, the ceiling is noticeably lower, making lobs difficult as the ball tends to bounce off the ceiling. It can also get quite hot, although ceiling fans are available, which may create some wind interference during play. There are windows that can be opened for ventilation, but this also increases the chances of balls going outside. The flooring in this area is not ideal, as it tends to be dusty, increasing the risk of slipping.
+## Getting there
 
-Overall, Warehouse Sports Club is a great place if you want a more relaxed and private pickleball experience with friends. The environment is generally less competitive, as most players here are casual players, families, or groups simply trying out the sport. However, it can sometimes feel distracting since other sports like basketball and volleyball may be happening simultaneously.
+Warehouse Sports Club is located in H. Abellana, Mandaue, Cebu. The area can be disorienting if you don't know it well, so use **Google Maps or Waze** for navigation rather than guessing. 
 
-* ## NOTES
+Getting there is easier with a car. If commuting, head toward the **Canduman area** — it's close to the warehouse — and use a ride-hailing app for the final stretch. Going with a friend who drives is the most practical option.
 
-* **-** Commuting can be difficult, so I suggest riding with a friend or booking a ride. However, if you prefer to commute, you can head to the Canduman area, which is already close to the warehouse. From there, you may need to use a ride-hailing app.
+---
 
-* **-** Although there is a store available, bringing your own water and food can help you save money.
-* **-** Booking is relatively easy, but if you want a preferred time slot (especially late afternoons), it’s best to reserve at least a week in advance.
-* **-** You can book through their website or contact them directly via their Facebook page for reservations.
+## The courts: three distinct setups
+
+What makes Warehouse Sports Club genuinely different from other venues is the variety in its court configurations. Each has a distinct feel and a different use case.
+
+### Main court
+
+The main area is a converted basketball court divided into three pickleball courts. The flooring is standard basketball hardwood, which gives you a wide, spacious playing area with room for generous lobs. The trade-off: with multiple courts sharing the same open space, balls from adjacent games occasionally roll through your area. It happens, everyone accepts it, and play continues. Basketball and volleyball games may be running on nearby courts simultaneously — the noise and movement in your peripheral vision takes a little getting used to, but it becomes background after a few rallies.
+
+### Side court
+
+The side court sits in a more enclosed area, which creates a noticeably more private feel. Your group essentially has its own section, though the lower ceiling compared to the main court limits how freely you can lob. The flooring is similar to the main court, and while passersby can still see in, it rarely affects the experience. Balls can still exit the enclosed area on high shots, so stay aware.
+
+### VIP court
+
+The VIP option is a full floor exclusive to you and your guests — its own space, its own bathroom. It's well-suited for a pickleball party, a team outing, or any gathering where privacy and exclusivity matter. 
+
+A few honest caveats: the ceiling is noticeably lower than the main court, making aggressive lobs risky — the ball will hit the ceiling on anything too ambitious. Ceiling fans help with ventilation but create some wind effect during play. Opening the windows helps with airflow but increases the chance of balls escaping. The flooring also tends to collect dust, which makes it slippery — something to be genuinely careful about, especially during intense rallies.
+
+---
+
+## Pricing
+
+| Time slot | Weekday | Weekend |
+|---|---|---|
+| 7:00 AM – 5:00 PM | ₱300/hr | ₱350/hr |
+| 5:00 PM – 11:00 PM | ₱400/hr | ₱450/hr |
+| VIP surcharge | +₱100 | +₱100 |
+
+These are among the most affordable rates across Cebu's pickleball venues, especially for daytime weekday slots. An on-site store is available, but bringing your own supplies is the better move for cost savings.
+
+---
+
+## Atmosphere and who plays here
+
+Warehouse Sports Club draws a casual crowd — friends trying pickleball for the first time, families, small groups who want the court to themselves without an audience of competitive players watching. The multi-sport environment means it never feels like a dedicated pickleball club, which is both its charm and its limitation.
+
+If you come expecting the focused, single-sport atmosphere of HQ or Net and Paddle, you'll be adjusting your expectations. But if you come expecting a fun, relaxed, slightly unpredictable space where you and your group can play without pressure — you'll have a genuinely good time.
+
+---
+
+## Honest verdict
+
+**What works:** The most affordable rates in this roundup, a genuinely private experience for your group, and the VIP floor concept is perfect for organized gatherings. The converted basketball court setup is unique and adds character. Most sessions, your group will have the courts largely to themselves.
+
+**What to watch:** The multi-sport environment means noise and distraction are part of the deal. The VIP court's low ceiling, dusty floor, and ventilation limits are real constraints — fun for a party, less ideal for serious play. Navigation to the venue requires effort if you're unfamiliar with Mandaue.
+
+**Best for:** Friend groups and families who want a private, casual pickleball experience. Anyone planning a pickleball-themed gathering or party. Players who prioritize affordability over premium facilities.
+
+---
+
+## Tips before you go
+
+- Use **Google Maps or Waze** — the location can be hard to find without navigation
+- Head to **Canduman** if commuting, then use a ride-hailing app for the last stretch
+- For preferred evening slots, book at least **one week in advance**
+- Book through their **website** or **Facebook page**
+- If choosing the VIP court, keep your lobs low and bring non-slip footwear — the floor gets dusty
+- Bring your own water and snacks even though a store is available
