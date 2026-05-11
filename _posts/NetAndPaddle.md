@@ -1,7 +1,7 @@
 ---
 title: "Net and Paddle Pickleball Club"
 excerpt: "Net and Paddle Pickleball Club stands out as one of Cebu’s top venues, offering high-quality courts and a competitive yet welcoming environment. Whether you’re aiming to improve your DUPR rating or just enjoy a game with friends, this venue provides the perfect balance of performance and comfort."
-coverImage: "/assets/blog/NetAndPaddle/ludo.jpg"
+coverImage: "/assets/blog/NetAndPaddle/LUDO.jpg"
 date: "2026-05-03T05:35:07.322Z"
 author:
   name: Francis Aliser
