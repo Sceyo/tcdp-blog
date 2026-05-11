@@ -104,7 +104,7 @@ export default function AboutPage() {
                     <div className="flex justify-center mb-6">
                     <Avatar
                         name="James Ng"
-                        picture="/assets/blog/authors/james.jpeg"
+                        picture="/assets/blog/authors/James.jpg"
                     />
                     </div>
                     <p>
