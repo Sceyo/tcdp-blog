@@ -132,7 +132,7 @@ export default function AboutPage() {
                       francisaliserit@gmail.com 
                     </a> {" "}
                      or at {" "}
-                    <a href="mailto:francisaliserit@gmail.com" className="underline">
+                    <a href="mailto:ngjames010@gmail.com" className="underline">
                       ngjames010@gmail.com
                     </a>.
                   </p>
